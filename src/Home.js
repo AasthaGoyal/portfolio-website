@@ -621,7 +621,6 @@ function Home() {
 							</div>
 						</div>
 						<div class="col-lg-6">
-							<h3 class="resume-title"></h3>
 							<div class="resume-item">
 								<h4>Integration Software Developer</h4>
 								<h5>Nov 2020 - May 2022</h5>
